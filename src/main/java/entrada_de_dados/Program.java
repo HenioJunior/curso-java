@@ -27,7 +27,7 @@ public class Program {
         s1 = sc.nextLine();
         s2 = sc.nextLine();
         s3 = sc.nextLine();
-        
+
         System.out.println("DADOS DIGITADOS:");
         System.out.println(x);
         System.out.println(s1);
