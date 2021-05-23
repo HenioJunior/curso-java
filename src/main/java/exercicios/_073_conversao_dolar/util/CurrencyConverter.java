@@ -1,4 +1,4 @@
-package exercicios._073.exercicio_conversao_dolar.util;
+package exercicios._073_conversao_dolar.util;
 
 public class CurrencyConverter {
 

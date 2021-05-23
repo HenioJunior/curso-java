@@ -1,4 +1,4 @@
-package exercicios._54._5;
+package exercicios._054._6;
 
 import java.util.Scanner;
 
@@ -10,13 +10,11 @@ public class Program {
 
         int n = sc.nextInt();
 
-        int fat = 1;
-        for (int i = 1; i <= n; i++) {
-            fat = fat * i;
+        for (int i=1; i<=n; i++) {
+            if (n % i == 0) {
+                System.out.println(i);
+            }
         }
-
-        System.out.println(fat);
-
         sc.close();
     }
 }

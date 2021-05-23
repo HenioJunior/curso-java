@@ -1,6 +1,6 @@
-package exercicios._073.exercicio_conversao_dolar.application;
+package exercicios._073_conversao_dolar.application;
 
-import exercicios._073.exercicio_conversao_dolar.util.CurrencyConverter;
+import exercicios._073_conversao_dolar.util.CurrencyConverter;
 
 import java.util.Scanner;
 
