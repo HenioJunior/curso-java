@@ -1,10 +1,12 @@
+package date;
+
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.time.Instant;
 import java.util.Date;
 import java.util.TimeZone;
 
-public class date {
+public class Program {
 
     public static void main(String[] args) throws ParseException {
 
