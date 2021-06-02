@@ -1,5 +1,6 @@
 package genericos_delimitados.application;
 
+import genericos_delimitados.entities.Product;
 import genericos_delimitados.services.CalculationService;
 
 import java.io.BufferedReader;
@@ -13,7 +14,7 @@ public class Program {
 
     public static void main(String[] args) {
 
-        List<Integer> list = new ArrayList<>();
+        List<Product> list = new ArrayList<>();
 
         String path = "C:\\temp\\in.txt";
 
@@ -21,12 +22,13 @@ public class Program {
 
             String line = br.readLine();
             while (line != null) {
-                list.add(Integer.parseInt(line));
+                String[] fields = line.split(",");
+                list.add(new Product(fields[0], Double.parseDouble(fields[1])));
                 line = br.readLine();
             }
 
-            Integer x = CalculationService.max(list);
-            System.out.println("Max:");
+            Product x = CalculationService.max(list);
+            System.out.println("Most expensive:");
             System.out.println(x);
 
         } catch (IOException e) {
