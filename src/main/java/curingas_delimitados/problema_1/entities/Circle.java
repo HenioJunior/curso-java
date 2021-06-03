@@ -1,4 +1,4 @@
-package curingas_delimitados.entities;
+package curingas_delimitados.problema_1.entities;
 
 public class Circle implements Shape {
 

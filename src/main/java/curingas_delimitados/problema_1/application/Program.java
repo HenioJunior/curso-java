@@ -1,8 +1,8 @@
-package curingas_delimitados.application;
+package curingas_delimitados.problema_1.application;
 
-import curingas_delimitados.entities.Circle;
-import curingas_delimitados.entities.Rectangle;
-import curingas_delimitados.entities.Shape;
+import curingas_delimitados.problema_1.entities.Circle;
+import curingas_delimitados.problema_1.entities.Rectangle;
+import curingas_delimitados.problema_1.entities.Shape;
 
 import java.util.ArrayList;
 import java.util.List;
