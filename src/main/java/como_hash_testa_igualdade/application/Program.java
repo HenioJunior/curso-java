@@ -1,7 +1,5 @@
 package como_hash_testa_igualdade.application;
 
-
-
 import como_hash_testa_igualdade.entities.Product;
 
 import java.util.HashSet;
