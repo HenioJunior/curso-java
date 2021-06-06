@@ -1,6 +1,6 @@
-package expressoes_lambda.comparator.demo3.application;
+package _20_prog_funcional_expressoes_lambda._219_comparator.demo3.application;
 
-import expressoes_lambda.comparator.demo3.entities.Product;
+import _20_prog_funcional_expressoes_lambda._219_comparator.demo3.entities.Product;
 
 import java.util.ArrayList;
 import java.util.List;

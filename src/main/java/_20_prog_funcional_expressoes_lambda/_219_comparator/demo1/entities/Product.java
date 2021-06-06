@@ -1,4 +1,4 @@
-package expressoes_lambda.comparator.demo1.entities;
+package _20_prog_funcional_expressoes_lambda._219_comparator.demo1.entities;
 
 public class Product {
 
