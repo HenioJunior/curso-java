@@ -29,8 +29,7 @@ public class Program {
                 int count = Integer.parseInt(fields[1]);
 
                 if(votes.containsKey(name)) {
-                    int votesSoFar = votes.get(name);
-                    votes.put(name, count + votesSoFar);
+                   votes.put(name, count + votes.get(name));
                 }
                 else {
                     votes.put(name, count);
