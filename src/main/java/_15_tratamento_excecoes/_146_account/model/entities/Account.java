@@ -1,6 +1,6 @@
-package exercicios._146_account.model.entities;
+package _15_tratamento_excecoes._146_account.model.entities;
 
-import exercicios._146_account.model.exceptions.DomainException;
+import _15_tratamento_excecoes._146_account.model.exceptions.DomainException;
 
 public class Account {
     private Integer number;

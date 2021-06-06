@@ -1,4 +1,4 @@
-package estrutura_try_catch;
+package _15_tratamento_excecoes._139_estrutura_try_catch;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

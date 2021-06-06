@@ -1,4 +1,4 @@
-package bloco_finally;
+package _15_tratamento_excecoes._141_bloco_finally;
 
 import java.io.File;
 import java.io.IOException;

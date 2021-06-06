@@ -1,7 +1,7 @@
-package exercicios._146_account.application;
+package _15_tratamento_excecoes._146_account.application;
 
-import exercicios._146_account.model.entities.Account;
-import exercicios._146_account.model.exceptions.DomainException;
+import _15_tratamento_excecoes._146_account.model.entities.Account;
+import _15_tratamento_excecoes._146_account.model.exceptions.DomainException;
 
 import java.util.Scanner;
 

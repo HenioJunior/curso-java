@@ -1,6 +1,6 @@
-package excecoes_personalizadas.model.entities;
+package _15_tratamento_excecoes._142_excecoes_personalizadas.entities;
 
-import excecoes_personalizadas.model.exceptions.DomainException;
+import _15_tratamento_excecoes._142_excecoes_personalizadas.exceptions.DomainException;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

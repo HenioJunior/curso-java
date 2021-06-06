@@ -1,4 +1,4 @@
-package stack_trace;
+package _15_tratamento_excecoes._140_stack_trace;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
