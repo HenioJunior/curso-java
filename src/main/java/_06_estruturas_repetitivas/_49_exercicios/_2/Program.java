@@ -1,4 +1,4 @@
-package exercicios._049._2;
+package _06_estruturas_repetitivas._49_exercicios._2;
 
 import java.util.Scanner;
 

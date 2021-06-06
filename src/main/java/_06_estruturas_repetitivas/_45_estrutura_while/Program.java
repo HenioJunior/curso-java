@@ -1,4 +1,4 @@
-package estrutura_while;
+package _06_estruturas_repetitivas._45_estrutura_while;
 
 import java.util.Scanner;
 
