@@ -1,4 +1,4 @@
-package escopo_inicializacao;
+package _05_estrutura_condicional._41_escopo_inicializacao;
 
 import java.util.Scanner;
 

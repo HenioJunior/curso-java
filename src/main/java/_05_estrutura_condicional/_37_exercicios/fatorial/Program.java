@@ -1,4 +1,4 @@
-package exercicios.fatorial;
+package _05_estrutura_condicional._37_exercicios.fatorial;
 
 import java.util.Scanner;
 

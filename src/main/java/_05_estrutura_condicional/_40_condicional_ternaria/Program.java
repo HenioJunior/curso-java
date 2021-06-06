@@ -1,4 +1,4 @@
-package condicional_ternaria;
+package _05_estrutura_condicional._40_condicional_ternaria;
 
 public class Program {
 
