@@ -1,4 +1,4 @@
-package saida_de_dados;
+package _04_estrutura_sequencial._24_saida_de_dados;
 
 import java.util.Locale;
 

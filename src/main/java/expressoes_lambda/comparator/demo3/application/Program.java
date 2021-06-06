@@ -3,7 +3,6 @@ package expressoes_lambda.comparator.demo3.application;
 import expressoes_lambda.comparator.demo3.entities.Product;
 
 import java.util.ArrayList;
-import java.util.Comparator;
 import java.util.List;
 
 public class Program {

@@ -1,4 +1,4 @@
-package entrada_de_dados;
+package _04_estrutura_sequencial._27_entrada_de_dados;
 
 import java.util.Scanner;
 

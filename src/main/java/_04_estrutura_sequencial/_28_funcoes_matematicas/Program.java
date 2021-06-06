@@ -1,4 +1,4 @@
-package funcoes_matematicas;
+package _04_estrutura_sequencial._28_funcoes_matematicas;
 
 public class Program {
     public static void main(String[] args) {
