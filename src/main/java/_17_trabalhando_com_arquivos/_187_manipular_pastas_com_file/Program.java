@@ -1,4 +1,4 @@
-package manipular_pastas_com_file;
+package _17_trabalhando_com_arquivos._187_manipular_pastas_com_file;
 
 import java.io.File;
 import java.util.Scanner;

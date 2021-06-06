@@ -1,6 +1,6 @@
-package exercicios._189.application;
+package _17_trabalhando_com_arquivos._189_exercicio.application;
 
-import exercicios._189.entities.Product;
+import _17_trabalhando_com_arquivos._189_exercicio.entities.Product;
 
 import java.io.*;
 import java.util.ArrayList;

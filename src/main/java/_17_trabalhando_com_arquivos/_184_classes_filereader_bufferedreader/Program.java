@@ -1,4 +1,4 @@
-package bloco_try_with_resources;
+package _17_trabalhando_com_arquivos._184_classes_filereader_bufferedreader;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -9,12 +9,16 @@ public class Program {
 	public static void main(String[] args)
 	{
 		String path = "/home/heniojr/workspaces/temp/in.txt";
+		FileReader fr = null;
+		BufferedReader br = null;
 		
-		try(BufferedReader br = new BufferedReader(new FileReader(path)))
+		try
 		{
+			fr = new FileReader(path);
+			br = new BufferedReader(fr);
+			
 			String line = br.readLine(); //leitura de uma linha do arquivo
-			while(line != null)
-			{
+			while(line != null) {
 				System.out.println(line);
 				line = br.readLine();
 			}
@@ -23,6 +27,23 @@ public class Program {
 		{
 		System.out.println("Error: " + e.getMessage());	
 		}
+		finally
+		{
+			try
+			{
+				if(br!=null)
+				{
+					br.close();
+				}
+				if(fr!=null)
+				{
+					fr.close();
+				}
+			}
+			catch(IOException e)
+			{
+				e.printStackTrace();
+			}
+		}
 	}
 }
-

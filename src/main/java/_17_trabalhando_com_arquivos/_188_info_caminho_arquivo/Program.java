@@ -1,4 +1,4 @@
-package info_caminho_arquivo;
+package _17_trabalhando_com_arquivos._188_info_caminho_arquivo;
 
 import java.io.File;
 import java.util.Scanner;

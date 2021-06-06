@@ -1,4 +1,4 @@
-package exercicios._189.entities;
+package _17_trabalhando_com_arquivos._189_exercicio.entities;
 
 public class Product {
 
