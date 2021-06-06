@@ -1,4 +1,4 @@
-package vetores._1;
+package _10_memoria_arrays_lista._89_vetores._1;
 
 import java.util.Scanner;
 

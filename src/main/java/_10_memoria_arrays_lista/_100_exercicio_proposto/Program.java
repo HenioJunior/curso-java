@@ -1,4 +1,4 @@
-package exercicios._100;
+package _10_memoria_arrays_lista._100_exercicio_proposto;
 
 import java.util.Scanner;
 

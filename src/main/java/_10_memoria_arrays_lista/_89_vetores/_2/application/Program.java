@@ -1,6 +1,6 @@
-package vetores._2.application;
+package _10_memoria_arrays_lista._89_vetores._2.application;
 
-import vetores._2.entities.Product;
+import _10_memoria_arrays_lista._89_vetores._2.entities.Product;
 
 import java.util.Scanner;
 

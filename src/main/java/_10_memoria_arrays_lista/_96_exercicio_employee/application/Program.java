@@ -1,6 +1,6 @@
-package exercicios._096_employee.entities.application;
+package _10_memoria_arrays_lista._96_exercicio_employee.application;
 
-import exercicios._096_employee.entities.Employee;
+import _10_memoria_arrays_lista._96_exercicio_employee.entities.Employee;
 
 import java.util.ArrayList;
 import java.util.List;

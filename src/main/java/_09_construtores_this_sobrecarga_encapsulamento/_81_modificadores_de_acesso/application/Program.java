@@ -1,6 +1,6 @@
-package modificadores_de_acesso.application;
+package _09_construtores_this_sobrecarga_encapsulamento._81_modificadores_de_acesso.application;
 
-import modificadores_de_acesso.entities.Product;
+import _09_construtores_this_sobrecarga_encapsulamento._81_modificadores_de_acesso.entities.Product;
 
 import java.util.Scanner;
 

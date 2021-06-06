@@ -1,4 +1,4 @@
-package matrizes;
+package _10_memoria_arrays_lista._98_matrizes;
 import java.util.Scanner;
 
 public class Program {

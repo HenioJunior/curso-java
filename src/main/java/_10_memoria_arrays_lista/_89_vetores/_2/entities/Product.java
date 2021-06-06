@@ -1,4 +1,4 @@
-package vetores._2.entities;
+package _10_memoria_arrays_lista._89_vetores._2.entities;
 
 public class Product {
 

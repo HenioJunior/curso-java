@@ -1,6 +1,4 @@
-package exercicios._096_employee.entities;
-
-import java.util.Objects;
+package _10_memoria_arrays_lista._96_exercicio_employee.entities;
 
 public class Employee {
 

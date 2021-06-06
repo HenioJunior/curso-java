@@ -1,4 +1,4 @@
-package listas;
+package _10_memoria_arrays_lista._95_listas;
 
 import java.util.ArrayList;
 import java.util.List;

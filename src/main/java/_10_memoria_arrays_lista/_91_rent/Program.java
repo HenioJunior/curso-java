@@ -1,4 +1,4 @@
-package exercicios._091_rent;
+package _10_memoria_arrays_lista._91_rent;
 
 import java.util.Scanner;
 

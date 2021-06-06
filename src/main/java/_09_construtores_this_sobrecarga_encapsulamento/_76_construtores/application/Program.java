@@ -1,6 +1,6 @@
-package construtores.application;
+package _09_construtores_this_sobrecarga_encapsulamento._76_construtores.application;
 
-import construtores.entities.Product;
+import _09_construtores_this_sobrecarga_encapsulamento._76_construtores.entities.Product;
 
 import java.util.Scanner;
 

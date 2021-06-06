@@ -1,4 +1,4 @@
-package laco_for_each;
+package _10_memoria_arrays_lista._93_laco_for_each;
 
 public class Program {
 
