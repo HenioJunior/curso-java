@@ -1,4 +1,4 @@
-package funcoes;
+package _07_outros_topicos_basicos._61_funcoes;
 
 import java.util.Scanner;
 

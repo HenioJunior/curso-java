@@ -1,4 +1,4 @@
-package operadores_bitwise;
+package _07_outros_topicos_basicos._58_operadores_bitwise;
 
 import java.util.Scanner;
 

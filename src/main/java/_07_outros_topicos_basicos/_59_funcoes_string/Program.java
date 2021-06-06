@@ -1,4 +1,4 @@
-package funcoes_string;
+package _07_outros_topicos_basicos._59_funcoes_string;
 
 public class Program {
 
